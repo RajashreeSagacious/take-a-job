@@ -1,0 +1,20 @@
+{
+    "name": "autosuggest/bootstrap-fileinput",
+    "description": "An enhanced HTML 5 file input for Bootstrap 3.x with features for file preview for many file types, multiple selection, ajax uploads, and more.",
+    "keywords": ["bootstrap", "jquery", "file", "input", "preview", "upload", "image", "multiple", "ajax", "delete", "progress"],
+    "homepage": "http://takeajob.com/",
+    "license": "BSD 3-Clause",
+    "authors": [
+        {
+            "name": "varun cs",
+            "email": "varun@sagaciousinfosystems.com",
+            "homepage": "http://takeajob.com/"
+        }
+    ],
+	"minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "autosuggest\\plugins\\fileinput\\": ""
+        }
+    }
+}

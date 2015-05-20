@@ -1,0 +1,721 @@
+﻿@media screen and (max-width: 1199px) {
+
+
+
+
+.ritmove {
+  left: 106px;
+}
+
+
+.ritinput {
+  left: 109px;
+}
+
+.ritinput2 {
+  left: 85px;
+}
+
+.topbox{
+	 margin-top:50px;
+}
+
+.submitbu {
+  position: relative;
+  left: 354px!important;
+  top: -52px;
+}
+
+
+
+
+
+
+}
+
+
+@media screen and (max-width: 1024px) {
+}
+
+@media screen and (max-width: 1015px) {
+	.container {
+	  width: 98%;
+	}
+}
+@media screen and (max-width: 1011px) {
+}
+@media screen and (max-width: 995px) {
+}
+@media screen and (max-width: 991px) {
+	.input-newstler {
+	  width: 50%;
+	}
+	
+#footer-widgets .widget-container {
+  border: none}	
+	
+	
+	#nt-example1 li {
+	  width: 96% !important;
+	  text-align: center !important;
+	  margin-left:0px;
+	  margin:0 auto;
+	}
+	
+	
+	.SlectBox {
+  width:510px!important;
+}
+
+
+.Slectlocation{
+	 width:510px!important;
+}
+
+
+
+select.input-sm {
+  width:510px!important;
+}
+
+
+		
+		.ritmove {
+  left:0px;
+}
+
+
+.ritinput {
+  left:0px;
+}
+
+
+.ritinput2{
+	left:0px;
+
+}
+
+	
+	.submitbu {
+  position: relative;
+  left:0px!important;
+  top: 0px;
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+@media screen and (max-width: 964px) {
+
+.SlectBox {
+  width:510px!important;
+}
+
+
+.Slectlocation{
+	 width:510px!important;
+}
+
+
+
+select.input-sm {
+  width:510px!important;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 949px) {
+}
+@media screen and (max-width: 941px) {
+	.nav-container {
+		float:none !important;
+		clear:both;
+	}
+	.menu {
+	  padding-left: 0px !important;
+	}
+	.menu-useful-links {
+		display:block !important;
+	}
+	
+		.responsive-menu {
+  position: relative;
+  float: right;
+  top: -36px; z-index:999999;
+}
+	
+#header-top {
+  z-index: 99999999;
+}	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+@media screen and (max-width: 936px) {
+	
+}
+@media screen and (max-width: 913px) {
+	.responsive-menu {
+	  width: 84px;
+	  }
+}
+@media screen and (max-width: 870px) {
+	.sugInp {
+	  width: 49%;
+	  margin-bottom:2px;
+	}
+	.sugInpin {
+	  width: 50%;
+	  left: 0px;
+	  margin-bottom:2px;
+	}
+	.sugInpindrop {
+	  width: 49%;
+	  left: 0px;
+	  margin-bottom:2px;
+	}
+	.sugInpindropT {
+	  width: 50%;
+	  left: 0px;
+	  margin-bottom:2px;
+	}
+	.buttonform {
+	  width: 150px;
+	}
+	
+	.buttonform:hover {
+	  width: 150px;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+@media screen and (max-width: 859px) {
+}
+@media screen and (max-width: 844px) {
+	.formlist ul li {
+	  display: block;
+	  padding: 10px 10px 10px 0px;
+	  color: #fff;
+	  font-size: 14px;
+	  float:left;
+	}
+}
+
+
+
+
+@media screen and (max-width: 800px) {
+	
+	
+	.SlectBox {
+  width:600px!important; margin-top:30px!important;
+}
+
+
+.Slectlocation{
+	 width:600px!important;
+}
+
+
+
+select.input-sm {
+  width:600px!important;
+}
+
+	
+		.ritmove {
+  left:0px;
+}
+
+
+.ritinput {
+  left:0px;
+}
+
+
+.ritinput2{
+	left:0px;
+
+}
+
+	
+	
+	
+		
+.submitbu {
+
+  left: 0px;
+  top:0px;
+}
+
+	
+	
+	
+	
+
+
+.rgisterform {
+  width: 100%;
+}
+
+
+.banerinco {
+  float: left;
+  width: 100%;
+}
+
+}
+
+
+
+@media screen and (max-width: 768px) {
+	.form-control {
+		margin-bottom: 5px;
+	}
+	
+
+	
+	.SlectBox {
+  width:550px!important; margin-top:30px!important;
+}
+
+
+.Slectlocation{
+	 width:550px!important;
+}
+
+
+
+select.input-sm {
+  width:550px!important;
+}
+
+
+	
+	
+	.submitbu {
+  position: relative;
+  left: 0px;
+  top:0px;
+}
+
+	.ritmove {
+  left:0px;
+}
+
+
+.ritinput {
+  left:0px;
+}
+
+
+.ritinput2{
+	left:0px;
+
+}
+
+	
+	
+	
+	
+	
+	
+}
+@media screen and (max-width: 758px) {
+}
+@media screen and (max-width: 653px) {
+
+
+.SlectBox {
+  width:450px!important;
+}
+
+
+.Slectlocation{
+	 width:450px!important;
+}
+
+
+
+select.input-sm {
+  width:450px!important;
+}
+
+
+
+}
+
+@media screen and (max-width: 614px) {
+
+
+
+
+
+
+.SlectBox {
+  width:420px!important;
+}
+
+
+.Slectlocation{
+	 width:420px!important;
+}
+
+
+
+select.input-sm {
+  width:420px!important;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 589px) {
+
+
+.SlectBox {
+  width:400px!important;
+}
+
+
+.Slectlocation{
+	 width:400px!important;
+}
+
+
+
+select.input-sm {
+  width:400px!important;
+}
+
+
+
+.socialmedia {
+  text-align: center;
+  margin: 0 auto;
+  overflow: hidden;
+  float: right;
+  margin-top: 20px;
+}
+
+}
+
+
+
+@media screen and (max-width: 569px) {
+
+
+.socialmedia { padding-bottom:30px; 
+
+
+
+
+}
+
+.headinn {
+  padding-top: 95px;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 564px) {
+	.place {
+		display:none !important;
+	}
+	.rgisterform {
+		width:100%;
+	}
+	.banerinco {
+	  width: 100%;
+	}
+	
+	
+	.SlectBox {
+  width:380px!important;
+}
+
+
+.Slectlocation{
+	 width:380px!important;
+}
+
+
+
+select.input-sm {
+  width:380px!important;
+}
+
+
+	
+	
+	
+}
+@media screen and (max-width: 750px) {
+	.rgisterform {
+	  width: 100%;
+	}
+	.banerinco {
+	  width: 100%;
+	}
+}
+@media screen and (max-width: 535px) {
+	.green {
+		border: solid 0px #eeeeee;
+	}
+	.form-register-small {
+		padding-left:18px;
+	}
+}
+@media screen and (max-width: 524px) {
+	.sugInp {
+	  width: 100%;
+	}
+	.sugInpin {
+	  width: 100%;
+	}
+	.sugInpindrop {
+	  width: 100%;
+	}
+	.sugInpindropT {
+	  width: 100%;
+	}
+	.buttonform {
+	  width: 150px;
+	}
+}
+
+
+
+@media screen and (max-width: 510px) {
+	.SlectBox {
+  width:340px!important;
+}
+
+
+.Slectlocation{
+	 width:340px!important;
+}
+
+
+
+select.input-sm {
+  width:340px!important;
+}
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 442px) {
+
+
+
+ .socialmedia {
+ float:left
+}
+
+.ritT a {
+ font-size: 12px;}
+
+
+
+
+
+
+
+
+
+
+}
+@media screen and (max-width: 399px) {
+	.formlist ul li {
+	  float:none;
+	}
+	.ritT a {
+		font-size:13px;
+	}
+	
+	
+	.logo img { width:50%; padding-top:10px;}
+	
+	.SlectBox {
+  width:300px!important;
+}
+
+
+.Slectlocation{
+	 width:300px!important;
+}
+
+
+
+select.input-sm {
+  width:300px!important;
+}
+	
+		
+	.green img{
+	 width:100%;
+}
+
+	
+}
+
+
+
+@media screen and (max-width: 369px) {
+	.formlist ul li {
+	  float:none;
+	}
+	.ritT a {
+		font-size:13px;
+	}
+	
+	
+	.logo img { width:50%; padding-top:10px;}
+	
+	.SlectBox {
+  width:250px!important;
+}
+
+
+.Slectlocation{
+	 width:250px!important;
+}
+
+
+
+select.input-sm {
+  width:250px!important;
+}
+	
+	
+	
+}
+
+@media screen and (max-width: 320px) {
+	.formlist ul li {
+	  float:none;
+	}
+	.ritT a {
+		font-size:13px;
+	}
+	
+	.banerinco {
+  width: 100%;
+}
+	
+	
+.SlectBox {
+  width:260px!important;
+}
+
+
+.Slectlocation{
+	 width:260px!important;
+}
+
+
+
+select.input-sm {
+  width:260px!important;
+}
+
+.form-register-small {
+padding-left: 0px; }
+	
+	
+	
+	.green img{
+	 width:100%;
+}
+	
+.topbox{
+	 margin-top:0px;
+}
+	@media screen and (max-width: 310px) {
+	
+	
+	.SlectBox {
+  width:200px!important;
+}
+.Slectlocation{
+	 width:200px!important;
+}
+
+select.input-sm {
+  width:200px!important;
+}
+	.count-box {
+  width: 100px;
+  height: 100px;
+
+}	
+	.step-image {
+
+  width: 100px;
+  height: 100px;
+}
+	
+.SPtop img {
+	 width:50%; position:relative; top:-30px;
+}		
+}
